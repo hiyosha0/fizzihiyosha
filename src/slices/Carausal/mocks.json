@@ -1,0 +1,31 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Everywhere"
+						}
+					}
+				]
+			},
+			"price_copy": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Nostrud voluptate aute voluptate adipisicing dolore id amet laborum laborum. Est reprehenderit amet duis qui consequat velit. Anim consectetur deserunt do in sint Lorem."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
