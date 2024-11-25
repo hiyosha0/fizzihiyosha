@@ -15,7 +15,7 @@ import clsx from "clsx";
  * Props for `AlternatingText`.
  */
 export type AlternatingTextProps =
-  SliceComponentProps<Content.AlternatingTextSlice>;
+  SliceComponentProps<Content.AlernatingTextSlice>;
 
 /**
  * Component for "AlternatingText" Slices.
